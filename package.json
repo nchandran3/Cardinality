@@ -1,0 +1,17 @@
+{
+  "name": "Cardinality",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nchandran3/Cardinality.git",
+  "author": "nchandran3 <naveenkchandran@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "compile": "tsc --noEmit"
+  },
+
+  "devDependencies": {
+    "parcel-bundler": "^1.4.1",
+    "typescript": "^2.6.2"
+  }
+}
